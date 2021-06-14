@@ -1,10 +1,6 @@
 # JavaScript-Password-Generator
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/81602695/121835574-a1b82b80-cc9f-11eb-8c73-f385356ea2d4.png)
 
 
 ---
